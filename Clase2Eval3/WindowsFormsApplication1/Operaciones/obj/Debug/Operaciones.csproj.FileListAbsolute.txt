@@ -1,0 +1,10 @@
+C:\Users\Lab3\Desktop\Clase2Eval3\WindowsFormsApplication1\Operaciones\bin\Debug\Operaciones.dll
+C:\Users\Lab3\Desktop\Clase2Eval3\WindowsFormsApplication1\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Lab3\Desktop\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.dll
+C:\Users\Lab3\Desktop\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Daniela\Desktop\Clase2Eval3-master\Clase2Eval3\WindowsFormsApplication1\Operaciones\bin\Debug\Operaciones.dll
+C:\Users\Daniela\Desktop\Clase2Eval3-master\Clase2Eval3\WindowsFormsApplication1\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Daniela\Desktop\Clase2Eval3-master\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Clase2Eval3-master\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.dll
+C:\Users\Daniela\Desktop\Clase2Eval3-master\Clase2Eval3\WindowsFormsApplication1\Operaciones\obj\Debug\Operaciones.pdb
